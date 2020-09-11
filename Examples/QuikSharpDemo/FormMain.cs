@@ -23,7 +23,7 @@ namespace QuikSharpDemo
         bool isServerConnected = false;
         bool isSubscribedToolOrderBook = false;
         bool isSubscribedToolCandles = false;
-        string secCode = "SiU0";
+        string secCode = "SRU0";
         string classCode = "";
         string clientCode;
         decimal bid;
